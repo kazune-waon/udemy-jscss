@@ -21,12 +21,12 @@
  * 横方向のレイアウト
  */
 /* インライン要素に対して */
-// .parent {
-//   text-align: left;
-// }
-// .child {
-//     display: inline-block;
-// }
+.parent {
+  text-align: left; //位置の調節
+}
+.child {
+    display: inline-block; //横並び
+}
 
 /* ブロック要素を中央揃え */
 // .parent {

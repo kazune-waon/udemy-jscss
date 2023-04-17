@@ -24,6 +24,14 @@
  * 横方向のレイアウト
  */
 /* インライン要素に対して */
+.parent {
+  text-align: left;
+}
+
+.child {
+  display: inline-block;
+}
+
 /* ブロック要素を中央揃え */
 /**
  * 上下方向のレイアウト
